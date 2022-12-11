@@ -12,3 +12,9 @@
 **Development Tools :**
 + Python 
 + VSCode
+
+**Progress:**
+- [x] User input.
+- [ ] Set alarm.
+- [ ] Make sound for alarm.
+- [ ] Multiple alarm.
