@@ -16,6 +16,6 @@
 
 **Task Completed :**
 - [x] User input.
-- [ ] Set alarm.
-- [ ] Make sound for alarm.
+- [x] Set alarm.
+- [x] Make sound for alarm.
 - [ ] Multiple alarm.
