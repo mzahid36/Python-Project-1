@@ -1,4 +1,4 @@
-#importing dependencies 
+#importing libraries 
 import datetime
 from playsound import playsound
 

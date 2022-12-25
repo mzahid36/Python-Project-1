@@ -13,6 +13,9 @@
   - Python 
 + Code Editor : 
   - VsCode
++ Libraries :
+  - Datetime
+  - playsound
 
 **Task Completed :**
 - [x] User input.
